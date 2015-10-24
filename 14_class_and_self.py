@@ -6,7 +6,7 @@
 --> self is just a pointer to the class instance.
 '''
 
-# self poits to class itsef. It points to bject of class.
+# self poits to class itsef. It points to object of class.
 class person:
 	def setFullName(self,firstName,lastName):
 		self.firstName = firstName
